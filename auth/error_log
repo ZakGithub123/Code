@@ -1,0 +1,22 @@
+[28-Apr-2023 01:10:12 Europe/London] PHP Warning:  Undefined array key "email" in /home/afewebho/public_html/abdullahwirie/auth/rank.php on line 11
+[28-Apr-2023 01:10:12 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''created_at') 
+			VALUES ('[{"question":"What is 2 + 2?","answers":[{"text":"...' at line 1 in /home/afewebho/public_html/abdullahwirie/auth/rank.php:17
+Stack trace:
+#0 /home/afewebho/public_html/abdullahwirie/auth/rank.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/afewebho/public_html/abdullahwirie/auth/rank.php on line 17
+[28-Apr-2023 01:10:42 Europe/London] PHP Warning:  Undefined array key "email" in /home/afewebho/public_html/abdullahwirie/auth/rank.php on line 13
+[28-Apr-2023 01:10:42 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''created_at') 
+			VALUES ('[{"question":"What is 2 + 2?","answers":[{"text":"...' at line 1 in /home/afewebho/public_html/abdullahwirie/auth/rank.php:19
+Stack trace:
+#0 /home/afewebho/public_html/abdullahwirie/auth/rank.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/afewebho/public_html/abdullahwirie/auth/rank.php on line 19
+[28-Apr-2023 01:10:55 Europe/London] PHP Warning:  Undefined array key "type" in /home/afewebho/public_html/abdullahwirie/auth/login.php on line 7
+[28-Apr-2023 01:10:55 Europe/London] PHP Warning:  Undefined array key "type" in /home/afewebho/public_html/abdullahwirie/auth/login.php on line 29
+[28-Apr-2023 01:11:26 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''created_at') 
+			VALUES ('[{"question":"What is 2 + 2?","answers":[{"text":"...' at line 1 in /home/afewebho/public_html/abdullahwirie/auth/rank.php:19
+Stack trace:
+#0 /home/afewebho/public_html/abdullahwirie/auth/rank.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/afewebho/public_html/abdullahwirie/auth/rank.php on line 19
